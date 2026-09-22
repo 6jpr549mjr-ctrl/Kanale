@@ -1,0 +1,209 @@
+EXTINF:-1,Teuta tv
+rtmp://str103.setplex.net:1935/228/teuta
+
+#EXTINF:-1,Rtk
+rtmp://wowza.rtkit.com/live/livestream
+
+#EXTINF:-1,News 24
+rtmp://66.55.93.203/livepkgr/n24stream
+
+‪#‎EXTINF‬:0,arta koha
+
+http://artm:artm@84.22.33.3:7122
+
+‪#‎EXTINF‬:0,tema tv
+
+http://artm:artm@84.22.33.3:8056
+
+‪#‎EXTINF‬:0,PRO7
+
+http://artm:artm@84.22.33.22:8000
+
+‪#‎EXTINF‬:0,Tv Mitrovica
+
+http://artm:artm@84.22.33.3:9020
+
+#EXTINF:0,HRT
+
+http://artm:artm@84.22.33.22:8048
+
+‪#‎EXTINF‬:0,Vizion plus
+
+http://artm:artm@84.22.33.22:8068
+
+‪#‎EXTINF‬:0,peace tv
+
+http://artm:artm@84.22.33.22:9051
+
+#EXTINF:-1, Alb Kids
+
+http://str105mb.setplex.net:1935/str2iosmd5/alb_kids/playlist.m3u8
+
+#EXTINF:-1, Alb Hits
+
+http://str105mb.setplex.net:1935/str2iosmd5/alb_hits/playlist.m3u8
+
+#EXTINF:-1, Alb Koncert
+
+http://str105mb.setplex.net:1935/str2iosmd5/alb_koncert/playlist.m3u8
+
+#EXTINF:-1, Alb Qifteli
+
+http://str105mb.setplex.net:1935/str2iosmd5/alb_qifteli/playlist.m3u8
+
+#EXTINF:-1, Alb Film
+
+http://str105mb.setplex.net:1935/str2iosmd5/alb_film/playlist.m3u8
+
+#EXTINF:-1, Alb Humor
+
+http://str105mb.setplex.net:1935/str2iosmd5/alb_humor/playlist.m3u8
+
+#EXTINF:-1, Topchannel
+#EXTVLCOPT:
+
+http://bit.ly/1BmnaSk
+
+#EXTINF:-1, Klan
+
+http://bit.ly/13LOii8
+
+http://80.80.160.201/http_livestr.m...46f722e7368616c613030320066696c6d616b73696f6e
+
+#EXTINF:-1, T
+
+http://bit.ly/1CX6OmV
+
+#EXTINF:-1, FilmKomedi
+
+http://bit.ly/1zXaAM4
+
+#EXTINF:-1,FilmAksion
+
+http://bit.ly/13LOXjJ
+
+SuperSport1Ks
+
+http://bit.ly/1DsgK5p
+
+SuperSport1
+
+http://bit.ly/1ApNXgY
+
+#EXTM3U
+#EXTINF:-1,Top Channel
+#EXTVLCOPT:
+
+http://bit.ly/1rrkiMP
+
+#EXTM3U
+#EXTINF:-1,Klan Kosova
+#EXTVLCOPT:
+
+http://artm:artm@84.22.33.24:8050/
+
+#EXTM3U
+#EXTINF:-1,Top News
+#EXTVLCOPT:
+
+http://bit.ly/ZB6UQa
+
+#EXTM3U
+#EXTINF:-1,My Music
+#EXTVLCOPT:
+
+http://bit.ly/1D7d218
+
+#EXTM3U
+#EXTINF:-1,Digi Plus
+#EXTVLCOPT:
+
+http://bit.ly/1qTC77c
+
+#EXTM3U
+#EXTINF:-1,Junior TV
+#EXTVLCOPT:
+
+http://bit.ly/1qTs1Dn
+
+#EXTM3U
+#EXTINF:-1,Explorer Histori
+#EXTVLCOPT:
+
+http://bit.ly/1sRpdgw
+
+#EXTM3U
+#EXTINF:-1,- Explorer Shkence
+#EXTVLCOPT:
+
+http://bit.ly/1w4t3CM
+
+#EXTM3U
+#EXTINF:-1,T Plus HD
+#EXTVLCOPT:
+
+http://bit.ly/1CePLbw
+
+#EXTM3U
+#EXTINF:-1,Cufo TV
+#EXTVLCOPT:
+
+http://bit.ly/1o7J1v6
+
+#EXTM3U
+#EXTINF:-1,Duck TV
+#EXTVLCOPT:
+
+http://bit.ly/1yw1Nzz
+
+#EXTM3U
+#EXTINF:-1,Teuta Tv
+#EXTVLCOPT:
+rtmp://str103.setplex.net:1935/228/teuta
+
+#EXTM3U
+#EXTINF:-1,Film Aksion
+#EXTVLCOPT:
+
+http://bit.ly/1w1FptJ
+
+#EXTM3U
+#EXTINF:-1,Film Komedi
+#EXTVLCOPT:
+
+http://bit.ly/1sHiy7P
+
+#EXTINF:-1,Super Sport 1 News HD
+#EXTM3U
+#EXTVLCOPT:
+
+http://80.80.160.201/http_livestr.m...46f722e7368616c613030320066696c6d616b73696f6e
+
+#EXTM3U
+#EXTINF:-1,Super Sport Kosova 1
+#EXTVLCOPT:
+
+http://bit.ly/1nU5ifP
+
+#EXTM3U
+#EXTINF:-1,Super Sport Kosova 2
+#EXTVLCOPT:
+
+http://bit.ly/Z0wJZp
+
+#EXTM3U
+#EXTINF:-1, Tv Tema
+#EXTVLCOPT:
+
+http://artm:artm@84.22.33.24:8056
+
+#EXTM3U
+#EXTINF:-1,RTK
+#EXTVLCOPT:
+
+http://bit.ly/1w2OCBZ
+
+#EXTM3U
+#EXTINF:-1, Vizion Plus
+#EXTVLCOPT:
+rtmp://live.vizionplus.tv/live//livestream2
