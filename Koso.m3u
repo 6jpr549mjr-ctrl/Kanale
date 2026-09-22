@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,RTK
+http://str105mb.setplex.net:1935/str2iosmd5/rtk_232_4dfaa/playlist.m3u8
+#EXTINF:-1,Alsat M
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_alsatm_430958392/playlist.m3u8
+#EXTINF:-1,Albanian Screen
+http://str105mb.setplex.net:1935/str2iosmd5//25albanianscreen/playlist.m3u8
+#EXTINF:-1,Agon Channel
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544
